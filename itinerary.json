@@ -1,0 +1,56 @@
+{
+    "tripName": "Spring Break 2026",
+    "traveler":{
+        "firstName": "Alexis",
+        "lastName": "Tinoco",
+        "contactInfo":{
+            "phone": "123-456-7890",
+            "email": "alexis@email.com"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Tokyo, Japan",
+            "arrivalDate": "2026-03-18",
+            "departureDate": "2026-03-23",
+            "activities": [
+                {
+                    "activity": "Disney Sea",
+                    "time": "7:30 AM",
+                    "rides": ["Toy Story Mania", "Soaring: Fantastic Flight", "Indiana Jones Adventure"],
+                    "priceInUSD": 67
+                },
+                {
+                    "activity": "Ghibli Museum",
+                    "time": "9:30 AM",
+                    "exhibits": ["The Room of Movement", "Cat Bus Room", "Tri Hawk's Reading Room"],
+                    "priceInUSD": 7
+                },
+                {
+                    "activity": "Shinjuku Gyoen National Garden",
+                    "time": "2:00 PM",
+                    "priceInUSD": "Free"
+                }
+            ]
+        },
+        {
+            "location": "Osaka, Japan",
+            "arrivalDate": "2026-03-24",
+            "departureDate": "2026-03-28",
+            "activities": [
+                {
+                    "activity": "Universal Studios",
+                    "time": "8:30 AM",
+                    "rides": ["Space Fantasy", "Despicable Me: Minion Mayhem", "The Flying Dinosaur"],
+                    "priceInUSD": 70
+                },
+                {
+                    "activity": "Pokemon Cafe",
+                    "time": "1:00 PM",
+                    "priceInUSD": 40
+                }
+            
+            ]
+        }
+    ] 
+}
